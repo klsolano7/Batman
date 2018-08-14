@@ -1,0 +1,12 @@
+mkdir: New folder creation
+ls - Tells you all the stuff in the folder where you are
+pwd - Tells you where you are
+cd - change directory
+rm: remove file
+rm -rf: remove a folder
+touch: create a file
+cd .. / every dot addedd takes you one place back
+
+
+(BE EFFING CAREFUL WITH: RM -RF |/)
+
